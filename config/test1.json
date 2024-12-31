@@ -1,0 +1,11 @@
+{"agents": [{"name": "Agent 1", "description": "Agent 1", "tasks": [], "role": "Agent 1"},
+{"name": "Agent 2", "description": "Agent 2", "tasks": [], "role": "Agent 2"},
+{"name": "Agent 3", "description": "Agent 3", "tasks": [], "role": "Agent 3"}],
+"tasks": [{"name": "Task 1", "description": "Task 1", "status": "Task 1"},
+{"name": "Task 2", "description": "Task 2", "status": "Task 2"},
+{"name": "Task 3", "description": "Task 3", "status": "Task 3"},
+{"name": "Task 4", "description": "Task 4", "status": "Task 4"},
+{"name": "Task 5", "description": "Task 5", "status": "Task 5"},
+{"name": "Task 6", "description": "Task 6", "status": "Task 6"},
+{"name": "Task 7", "description": "Task 7", "status": "Task 7"}],
+"jira": {"name": "Jira 1", "tasks": [], "agents": []}}
